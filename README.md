@@ -17,7 +17,7 @@ spomínané vertikálne delenie na dve polovice, a korektné zobrazenie aj pre m
 rozlíšenia, konkrétne do 320px na šírku. Úroveň kedy sa vertikálne rozdelenie zmení na
 horizontálne je taktiež ľubovoľné.Použitie knižníc tretích strán nie je obmedzené.
 
-## How to run
+## Ako spustiť
 
 ```
 npm install
